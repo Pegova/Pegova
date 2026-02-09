@@ -1,0 +1,48 @@
+<svg width="800" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Piksel fontu andıran modern bir font */
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+
+    .bg-rect {
+      fill: #2d3436; /* Koyu gri arka plan */
+      stroke: #636e72; /* Daha açık gri çerçeve */
+      stroke-width: 2;
+    }
+    
+    .fill-rect {
+      fill: #00cec9; /* Parlak turkuaz dolgu rengi */
+      width: 0; /* Başlangıçta boş */
+      animation: fillExp 2.5s cubic-bezier(0.165, 0.84, 0.44, 1) forwards;
+    }
+
+    .text-shadow {
+      font-family: 'Press Start 2P', cursive, sans-serif;
+      font-size: 12px;
+      fill: #000; /* Yazı gölgesi */
+      opacity: 0.8;
+    }
+    
+    .text-front {
+      font-family: 'Press Start 2P', cursive, sans-serif;
+      font-size: 12px;
+      fill: #fff; /* Beyaz ana yazı */
+    }
+
+    /* Dolma Animasyonu: %50'ye kadar */
+    @keyframes fillExp {
+      to { width: 50%; }
+    }
+  </style>
+
+  <rect x="2" y="2" width="796" height="36" rx="4" class="bg-rect" />
+
+  <rect x="4" y="4" height="32" rx="2" class="fill-rect">
+     <animate attributeName="width" from="0" to="398" dur="2.5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.165, 0.84, 0.44, 1" />
+  </rect>
+
+  <text x="15" y="24" class="text-shadow">LEVEL 2 / 4</text>
+  <text x="14" y="23" class="text-front">LEVEL 2 / 4</text>
+
+  <text x="785" y="24" text-anchor="end" class="text-shadow">UNIVERSITY CAMPAIGN</text>
+  <text x="784" y="23" text-anchor="end" class="text-front">UNIVERSITY CAMPAIGN</text>
+</svg>
