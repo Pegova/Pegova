@@ -10,7 +10,7 @@
 
 ### Selamlar, ben Can Özmısırlı! 👋
 <a href="#">
-  <img align="right" src="./gpa.svg?v=2" width="140" alt="GPA: 3.90" />
+  <img align="right" src="./gpa.svg?lang=tr" width="140" alt="GPA: 3.90" />
 </a>
 
 🎓 <i>Muğla Sıtkı Koçman Üniversitesi</i> | <b>Dijital Oyun Tasarımı</b> 2. sınıf öğrencisiyim. <br><br>
@@ -18,7 +18,7 @@
 🎮 Hikaye anlatımı ve mekanikleri birleştiren, <b>Unity</b> tabanlı oyunlar geliştiren tutkulu bir geliştiriciyim. <br><br>
 Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum. <br><br>
 <br clear="right" />
-<img src="./exp_bar.svg?v=2" width="100%" alt="Level 2/4 Progress Bar" />
+<img src="./exp_bar.svg?lang=tr" width="100%" alt="Level 2/4 Progress Bar" />
 
 ---
 
