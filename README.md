@@ -3,7 +3,7 @@
   <tr>
     <td valign="center">
       🎓 <i>Muğla Sıtkı Koçman Üniversitesi</i> 
-      / Dijital Oyun Tasarımı</b> 2. Sınıf Öğrencisi. <br><br>
+      / Dijital Oyun Tasarımı</b> 2. Sınıf Öğrencisiyim. <br><br>
       📍 İzmir / Bodrum <br><br>
       🎮 Hikaye anlatımı ve mekanikleri birleştiren, <b>Unity</b> tabanlı oyunlar geliştiren tutkulu bir geliştiriciyim. <br><br>
       Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum.
