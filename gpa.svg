@@ -1,0 +1,57 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .circle-bg {
+      fill: none;
+      stroke: #333;
+      stroke-width: 15;
+    }
+    .circle-fill {
+      fill: none;
+      stroke-width: 15;
+      stroke-linecap: round;
+      stroke: url(#gradient);
+      stroke-dasharray: 440;
+      stroke-dashoffset: 440;
+      animation: fillGPA 2.5s ease-out forwards;
+    }
+    .gpa-text {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 40px;
+      font-weight: bold;
+      fill: #fff;
+      opacity: 0;
+      animation: fadeIn 2.5s ease-out forwards;
+    }
+    .label {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 18px;
+      fill: #aaa;
+      opacity: 0;
+      animation: fadeIn 2.5s ease-out forwards;
+    }
+    
+    /* 3.90 GPA, 4.00 üzerinden %97.5 eder. 
+       440 (çevre) * (1 - 0.975) = 11 offset kalmalı. */
+    @keyframes fillGPA {
+      to { stroke-dashoffset: 11; }
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff4d4d;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#f9ca24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6ab04c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <circle cx="100" cy="100" r="70" class="circle-bg" />
+
+  <circle cx="100" cy="100" r="70" class="circle-fill" transform="rotate(-90 100 100)" />
+
+  <text x="50%" y="55%" text-anchor="middle" class="gpa-text">3.90</text>
+  <text x="50%" y="68%" text-anchor="middle" class="label">GPA / 4.00</text>
+</svg>
