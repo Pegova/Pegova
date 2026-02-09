@@ -3,7 +3,7 @@
   <img align="right" src="./gpa.svg?v=2" width="140" alt="GPA: 3.90" />
 </a>
 
-🎓 <i>Muğla Sıtkı Koçman Üniversitesi <b>Dijital Oyun Tasarımı</b> 2. sınıf öğrencisiyim. <br><br>
+🎓 <i>Muğla Sıtkı Koçman Üniversitesi</i> | <b>Dijital Oyun Tasarımı</b> 2. sınıf öğrencisiyim. <br><br>
 📍 İzmir / Bodrum <br><br>
 🎮 Hikaye anlatımı ve mekanikleri birleştiren, <b>Unity</b> tabanlı oyunlar geliştiren tutkulu bir geliştiriciyim. <br><br>
 Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum. <br><br>
