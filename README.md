@@ -1,10 +1,18 @@
 ### Selamlar, ben Can Özmısırlı! 👋
-
-* 🎓 *Muğla Sıtkı Koçman Üniversitesi* | **Dijital Oyun Tasarımı** 2. sınıf öğrencisiyim.
-* 📍 İzmir / Bodrum
-* 🎮 Hikaye anlatımı ve mekanikleri birleştiren, **Unity** tabanlı oyunlar geliştiren tutkulu bir geliştiriciyim.
-
-Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum.
+<table>
+  <tr>
+    <td valign="center">
+      🎓 <i>Muğla Sıtkı Koçman Üniversitesi</i> 
+      / Dijital Oyun Tasarımı</b> 2. Sınıf Öğrencisi. <br><br>
+      📍 İzmir / Bodrum <br><br>
+      🎮 Hikaye anlatımı ve mekanikleri birleştiren, <b>Unity</b> tabanlı oyunlar geliştiren tutkulu bir geliştiriciyim. <br><br>
+      Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum.
+    </td>
+    <td valign="center">
+      <img src="./gpa.svg" width="160" alt="GPA: 3.90/4.00" />
+    </td>
+  </tr>
+</table>
 
 ---
 
