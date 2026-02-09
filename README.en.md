@@ -10,7 +10,7 @@
 
 ### Hi there, I'm Can Özmısırlı! 👋
 <a href="#">
-  <img align="right" src="./gpa.svg?v=3" width="140" alt="GPA: 3.90" />
+  <img align="right" src="./gpa.svg?lang=en" width="140" alt="GPA: 3.90" />
 </a>
 
 🎓 <i>Muğla Sıtkı Koçman University</i> | <b>Digital Game Design</b> sophomore student. <br><br>
@@ -18,7 +18,7 @@
 🎮 A passionate developer creating <b>Unity</b> based games that blend storytelling with mechanics. <br><br>
 Currently focusing on C# architecture, Clean Code principles, and algorithms. <br><br>
 <br clear="right" />
-<img src="./exp_bar.svg?v=3" width="100%" alt="Level 2/4 Progress Bar" />
+<img src="./exp_bar.svg?lang=en" width="100%" alt="Level 2/4 Progress Bar" />
 
 ---
 
