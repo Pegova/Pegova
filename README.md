@@ -1,3 +1,13 @@
+<div align="right">
+  <a href="./README.md">
+    <img src="https://flagcdn.com/w40/tr.png" width="30" alt="Türkçe" />
+  </a>
+  &nbsp;
+  <a href="./README.en.md">
+    <img src="https://flagcdn.com/w40/gb.png" width="30" alt="English" />
+  </a>
+</div>
+
 ### Selamlar, ben Can Özmısırlı! 👋
 <a href="#">
   <img align="right" src="./gpa.svg?v=2" width="140" alt="GPA: 3.90" />
