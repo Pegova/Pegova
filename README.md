@@ -68,4 +68,4 @@
 * 💼 [LinkedIn Profilim](LINKI_BURAYA_YAPISTIR)
 * 👾 [Itch.io Profilim](LINKI_BURAYA_YAPISTIR)
 * 🟥 [Youtube Kanalım](LINKI_BURAYA_YAPISTIR)
-* 📧 [emailadresin@ornek.com](mailto:emailadresin@ornek.com)
+* 📧 [emailadresim@ornek.com](mailto:emailadresin@ornek.com)
