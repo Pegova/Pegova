@@ -9,7 +9,7 @@
       Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum.
     </td>
     <td valign="center">
-      <img src="./gpa.svg?v=1" width="160" alt="GPA: 3.90/4.00" />
+      <img src="./gpa.svg?v=2" width="160" alt="GPA: 3.90/4.00" />
     </td>
   </tr>
 </table>
