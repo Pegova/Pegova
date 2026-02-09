@@ -1,22 +1,14 @@
 ### Selamlar, ben Can Özmısırlı! 👋
-<table>
-  <tr>
-    <td valign="center">
-      🎓 <i>Muğla Sıtkı Koçman Üniversitesi</i> 
-      / Dijital Oyun Tasarımı</b> 2. sınıf öğrencisiyim. <br><br>
-      📍 İzmir / Bodrum <br><br>
-      🎮 Hikaye anlatımı ve mekanikleri birleştiren, <b>Unity</b> tabanlı oyunlar geliştiren tutkulu bir geliştiriciyim. <br><br>
-      Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum.
-    </td>
-    <td valign="center">
-      <img src="./gpa.svg?v=2" width="160" alt="GPA: 3.90/4.00" />
-    </td>
-  </tr>
-</table>
+<a href="#">
+  <img align="right" src="./gpa.svg?v=2" width="140" alt="GPA: 3.90" />
+</a>
 
-<div align="center">
-  <img src="./exp_bar.svg?v=1" width="100%" alt="Level 2/4 Progress Bar" />
-</div>
+🎓 <i>Muğla Sıtkı Koçman Üniversitesi <b>Dijital Oyun Tasarımı</b> 2. sınıf öğrencisiyim. <br><br>
+📍 İzmir / Bodrum <br><br>
+🎮 Hikaye anlatımı ve mekanikleri birleştiren, <b>Unity</b> tabanlı oyunlar geliştiren tutkulu bir geliştiriciyim. <br><br>
+Şu anda C# mimarisi, temiz kod (Clean Code) prensipleri ve algoritmalar üzerine yoğunlaşıyorum. <br><br>
+<br clear="right" />
+<img src="./exp_bar.svg?v=2" width="100%" alt="Level 2/4 Progress Bar" />
 
 ---
 
