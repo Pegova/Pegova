@@ -1,10 +1,10 @@
 <div align="right">
   <a href="./README.md" title="Türkçe">
-    <img src="https://raw.githubusercontent.com/HatScripts/circle-flags/master/flags/tr.svg" width="36" alt="Türkçe" />
+    <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="36" alt="Türkçe" />
   </a>
   &nbsp;
   <a href="./README.en.md" title="English">
-    <img src="https://raw.githubusercontent.com/HatScripts/circle-flags/master/flags/gb.svg" width="36" alt="English" />
+    <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="36" alt="English" />
   </a>
 </div>
 
