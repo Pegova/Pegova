@@ -45,8 +45,8 @@
 
 ### 🌱 Gelişim & Hedefler
 
-*  **System Design:** Karmaşık oyun sistemlerini (ekonomi, envanter vb.) modüler ve yönetilebilir şekilde tasarlamak.
-*  **Project Management:** Bir oyun fikrini "sıfırdan yayına" (Zero to Hero) götürecek üretim hattını yönetmeyi öğrenmek.
+* 💻 **System Design:** Karmaşık oyun sistemlerini (ekonomi, envanter vb.) modüler ve yönetilebilir şekilde tasarlamak.
+* 📅 **Project Management:** Bir oyun fikrini "sıfırdan yayına" (Zero to Hero) götürecek üretim hattını yönetmeyi öğrenmek.
 
 ---
 
