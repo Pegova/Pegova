@@ -14,6 +14,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="./exp_bar.svg?v=1" width="100%" alt="Level 2/4 Progress Bar" />
+</div>
+
 ---
 
 ### 🛠️ Teknoloji & Yetenekler
