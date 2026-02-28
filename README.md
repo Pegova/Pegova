@@ -78,4 +78,4 @@
 * 💼 [LinkedIn Profilim](LINKI_BURAYA_YAPISTIR)
 * 👾 [Itch.io Profilim](https://pegova.itch.io)
 * 🟥 [Youtube Kanalım](https://www.youtube.com/@CanOzmisirli)
-* 📧 [canozmisirli@gmail.com](mailto:canozmisirli@gmail.com)
+* 📧 [Bana Mail Gönder](mailto:canozmisirli@gmail.com)
