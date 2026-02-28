@@ -76,6 +76,6 @@
 ### 📫 İletişim
 
 * 💼 [LinkedIn Profilim](LINKI_BURAYA_YAPISTIR)
-* 👾 [Itch.io Profilim](LINKI_BURAYA_YAPISTIR)
-* 🟥 [Youtube Kanalım](LINKI_BURAYA_YAPISTIR)
-* 📧 [emailadresim@ornek.com](mailto:emailadresin@ornek.com)
+* 👾 [Itch.io Profilim]((https://pegova.itch.io))
+* 🟥 [Youtube Kanalım]((https://www.youtube.com/@CanOzmisirli))
+* 📧 [canozmisirli@gmail.com](mailto:canozmisirli@gmail.com)
