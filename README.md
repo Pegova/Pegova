@@ -34,8 +34,9 @@
 [![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)](https://www.aseprite.org/)
 [![Krita](https://img.shields.io/badge/-Krita-33CCFF?style=for-the-badge&logo=krita&logoColor=white)](https://krita.org/)
 
-* Software Design | Game Design | Level Design | Project Management | C# | Python | Unity | Blender 
-* Visual Studio | Krita | Adobe Photoshop | Adobe Illustrator | Aseprite | GitHub | Ollama | AnythingLLM
+Software Design | Game Design | Level Design | Project Management | C# | Python | Unity | Blender 
+
+Visual Studio | Krita | Adobe Photoshop | Adobe Illustrator | Aseprite | GitHub | Ollama | AnythingLLM
 
 
 ---
