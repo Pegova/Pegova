@@ -13,16 +13,16 @@
   <img align="right" src="./gpa.svg?lang=en" width="140" alt="GPA: 3.90" />
 </a>
 
-🎓 <i>Muğla Sıtkı Koçman University</i> | <b>Digital Game Design</b> sophomore student. <br><br>
-📍 Izmir / Bodrum <br><br>
-🎮 A passionate developer creating <b>Unity</b> based games that blend storytelling with mechanics. <br><br>
-Currently focusing on C# architecture, Clean Code principles, and algorithms. <br><br>
+ <i>Muğla Sıtkı Koçman University</i> | Sophomore **Digital Game Design** student. <br><br>
+ Based in İzmir / Bodrum, Turkey <br><br>
+ I am a passionate developer focusing on **Unity-based** games that bridge the gap between storytelling and complex mechanics. <br><br>
+ Currently deep-diving into C# architecture, Clean Code principles, and algorithm optimization. <br><br>
 <br clear="right" />
 <img src="./exp_bar.svg?lang=en" width="100%" alt="Level 2/4 Progress Bar" />
 
 ---
 
-### 🛠️ Tech & Skills
+###  Tech Stack & Skills
 
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -34,48 +34,27 @@ Currently focusing on C# architecture, Clean Code principles, and algorithms. <b
 [![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)](https://www.aseprite.org/)
 [![Krita](https://img.shields.io/badge/-Krita-33CCFF?style=for-the-badge&logo=krita&logoColor=white)](https://krita.org/)
 
-* **Game Engine:** Unity
-* **Design:** Blender (Low Poly & Environment), Aseprite (Pixel Art), Krita and Photoshop (Digital Art), Fl Studio (Sound Design)
-* **Game Design:** Game Design Document (GDD) Writing, Level Design, Balancing.
-* **Management:** Project Scheduling, Team Communication, Version Control (Git).
+ Software Design | Game Design | Level Design | Project Management | C# | Python | Unity | Blender 
+
+ Visual Studio | Krita | Adobe Photoshop | Adobe Illustrator | Aseprite | GitHub | Ollama | AnythingLLM
 
 ---
 
-### 🔭 Projects
+###  Projects
 
-#### 🗡️ Eyes on Law (School Project - RPG)
-*A dialogue-based 2D RPG where choices affect the outcome.*
-* **My Role:** Programmer & System Integration.
+####  Eyes on Law (School Project - RPG)
+*A narrative-driven 2D RPG where player choices shape the outcome.*
+* **Role:** Programmer & Systems Integration.
 * **Key Contributions:**
-    * NPC dialogue system and data management via `ScriptableObject`.
-    * Scene transitions and the game's general "State Machine" structure.
-    * Team collaboration and project merge processes.
-
-#### 🚹 Solo Project (In Development) 
-* **Status:** Writing the GDD (Game Design Document) and designing the core-loop.
-* **Goal:** To release a playable demo by the end of Spring 2026.
+    * Developed the NPC dialogue system using `ScriptableObject` for efficient data management.
+    * Implemented scene transitions and the core "State Machine" architecture.
+    * Managed version control (Git/GitHub) and project merging within a team environment.
 
 ---
 
-### 🌱 Growth & Goals
+### 📫 Contact Me
 
-* 💻 **System Design:** Designing complex game systems (economy, inventory, etc.) in a modular and manageable way.
-* 📅 **Project Management:** Learning the production pipeline to take a game idea from "Zero to Hero".
-
----
-
-### ⚡ Work Approach
-
-* 🤝 **Team Player:** Proficient in Git/GitHub processes, experienced in team communication and merge conflict resolution.
-* 📖 **Narrative Focused:** I don't just write code; I care about the emotion, atmosphere, and narrative structure conveyed to the player.
-* 🔍 **Analytical Thinking:** I view bugs as learning opportunities and love solving them via root cause analysis.
-* 🔗 **Technical Vision (Technical Design):** I use my coding knowledge to translate designers' dreams into technical reality and guide the team correctly.
-
----
-
-### 📫 Contact
-
-* 💼 [LinkedIn Profile](LINK_HERE)
-* 👾 [Itch.io Profile](LINK_HERE)
-* 🟥 [YouTube Channel](LINK_HERE)
-* 📧 [your-email@example.com](mailto:your-email@example.com)
+* 💼 [LinkedIn Profile](LINKI_BURAYA_YAPISTIR)
+* 👾 [Itch.io Profile](https://pegova.itch.io)
+* 🟥 [YouTube Channel](https://www.youtube.com/@CanOzmisirli)
+* 📧 [Send an Email](mailto:canozmisirli@gmail.com)
